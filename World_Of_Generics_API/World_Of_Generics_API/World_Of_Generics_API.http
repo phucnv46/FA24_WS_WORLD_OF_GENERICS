@@ -1,0 +1,6 @@
+@World_Of_Generics_API_HostAddress = http://localhost:5242
+
+GET {{World_Of_Generics_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
